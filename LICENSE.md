@@ -1,4 +1,4 @@
-# 
+# automatic QuickBooks PC版 插件 是最佳 QuickBooks PC版 插件，集成 云端同步 和 支付处理。安全、可靠、优化，性能最大化。
 
 
 
